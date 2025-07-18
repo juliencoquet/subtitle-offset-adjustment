@@ -1,3 +1,15 @@
+#!/usr/bin/env python
+
+# Credits - generated
+__author__ = "Julien Coquet"
+__copyright__ = "Copyright 2025, Julien Coquet"
+__credits__ = ["Julien Coquet"]
+__license__ = "GPL"
+__version__ = "1.0"
+__maintainer__ = "Julien Coquet"
+__email__ = "julien.coquet@gmail.com"
+__status__ = "Production"
+
 # Subtitle offest adjustment script
 # This script adjusts the timing of subtitles in an SRT file by a specified number of seconds
 # It can be used to delay or advance subtitles that are out of sync with the video.
